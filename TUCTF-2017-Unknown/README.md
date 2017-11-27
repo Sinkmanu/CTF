@@ -53,7 +53,7 @@ The result will be compared with the encoded flag:
 
 ```
 0x00401f12	movabs rcx, 0x401dac        
-0x00401f1	mov rcx, qword [rcx + rsi*4]                                                                                                                                            
+0x00401f1c	mov rcx, qword [rcx + rsi*4]                                                                                                                                            
 0x00401f20	cmp eax, ecx                                                                                                                                                            
 0x00401f22	je 0x401f2e     
 ```
