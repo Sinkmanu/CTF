@@ -171,7 +171,7 @@ Next important function includes the pair character in the 32 bytes generated wi
 
 
 
-![](https://unam.re/static/files/ng_child7.png)
+![](https://unam.re/static/files/ng_child77.png)
 
 
 
